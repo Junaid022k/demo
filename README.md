@@ -1,3 +1,3 @@
 # demo
-my new project
-internship 
+my new internship 
+project
